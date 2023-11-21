@@ -19,10 +19,10 @@ public class Truck extends AbstractVehicle{
     }
 
     /**
-     * Implementation for bus
+     * Implementation for truck
      */
     @Override
     public void drive() {
-        System.out.println("Driving a bus");
+        System.out.println("Driving a truck");
     }
 }
